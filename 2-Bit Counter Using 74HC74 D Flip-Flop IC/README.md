@@ -64,13 +64,13 @@ GND |7        8|2Q̄
 
 ## Breadboard Layout
 
-![2-Bit Counter Breadboard](circuit_diagram.jpg)
+![2-Bit Counter Breadboard](circuit_diagram.png)
 
 ---
 
 ## YouTube Video Link
 
-![2-Bit Counter Breadboard]()
+[2-Bit Counter Breadboard]()
 
 ---
 
