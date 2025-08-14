@@ -10,6 +10,7 @@ The counter increments on each clock pulse from a **pushbutton** and displays th
 - [Components Required](#components-required)
 - [7474 Pinout](#7474-pinout)
 - [Breadboard Layout](#breadboard-layout)
+- [YouTube Video Link](#youtube-video-link)
 - [Connections](#connections)
 - [Working Principle](#working-principle)
 - [Testing](#testing)
