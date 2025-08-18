@@ -15,7 +15,7 @@ The counter increments on each clock pulse from a **pushbutton** and displays th
 - [Working Principle](#working-principle)
 - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
-- [Live Demo Link](#lice-demo-link)
+- [Live Demo Link](#live-demo-link)
 
 ---
 
