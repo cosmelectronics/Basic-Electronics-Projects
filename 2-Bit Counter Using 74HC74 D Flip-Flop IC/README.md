@@ -15,6 +15,7 @@ The counter increments on each clock pulse from a **pushbutton** and displays th
 - [Working Principle](#working-principle)
 - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
+- [Live Demo Link](#lice-demo-link)
 
 ---
 
@@ -71,7 +72,7 @@ GND |7        8|2Q̄
 
 ## YouTube Video Link
 
-[2-Bit Counter Breadboard]()
+[2-Bit Counter Breadboard](https://youtu.be/q1SFeBcVeuU?si=nifUG-_9r1EczskX)
 
 ---
 
@@ -138,6 +139,12 @@ Q1 Q0
 | 2           | ON     | OFF    |
 | 3           | ON     | ON     |
 | 4           | OFF    | OFF    |
+
+---
+
+## Live Demo Link
+
+[2-Bit Counter Breadboard](https://www.tinkercad.com/things/aqCZYybnRuv-2-bit-counter-using-d-flip-flop)
 
 ---
 
