@@ -68,7 +68,7 @@ This build uses:
 
 **4-Bit Counter Breadboard**
 
-![4-Bit Counter Breadboard](4-bit Counter Circuit Diagram.png)
+![4-Bit Counter Breadboard](https://github.com/cosmelectronics/Basic-Electronics-Projects/blob/main/4-bit%20Binary%20Counter%20using%2074HC74%20D%20Flip-Flop%20IC/4-bit%20Counter%20Circuit%20Diagram.png)
 
 ---
 
