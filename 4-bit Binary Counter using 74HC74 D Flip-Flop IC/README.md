@@ -68,7 +68,7 @@ This build uses:
 
 **4-Bit Counter Breadboard**
 
-![4-Bit Counter Breadboard](circuit_diagram.png)
+![4-Bit Counter Breadboard](4-bit Counter Circuit Diagram.png)
 
 ---
 
