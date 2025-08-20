@@ -173,7 +173,7 @@ Q3 Q2 Q1 Q0
 
 ## Live Demo Link
 
-[4-Bit Counter Breadboard Demonstration](#)
+[4-Bit Counter Breadboard Demonstration](https://www.tinkercad.com/things/0uZp85dLDtB-4-bit-counter-using-74hc74-d-flip-flop)
 
 ---
 
