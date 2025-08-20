@@ -46,10 +46,7 @@ This build uses:
 ## 7474 Pinout
 
 ```
-
-```
   +---+--+---+
-```
 
 1CLR|1  +--+ 14|VCC
 1D |2       13|2CLR
