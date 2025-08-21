@@ -74,7 +74,7 @@ This build uses:
 
 ## YouTube Video Link
 
-[4-Bit Counter Breadboard Demonstration](#)
+[4-Bit Counter Breadboard Demonstration](https://youtu.be/Xao0bHhQ4Pg?si=YiwOCVZdVe_uyVEF)
 
 ---
 
