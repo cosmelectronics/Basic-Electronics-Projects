@@ -42,16 +42,15 @@ By changing the capacitor or resistor values, you can adjust the blink speed.
 ---
 
 ## 555 Timer Pinout
-```
 
 ```
     +---+--+---+
-GND |1  +--+  8| VCC
-TRG |2       7| DIS
-OUT |3       6| THR
+GND  |1       8| VCC
+TRG  |2       7| DIS
+OUT  |3       6| THR
 RESET|4       5| CTRL
-+--------+
-
+    +---+--+---+
+```
 ---
 
 ## Breadboard Layout
