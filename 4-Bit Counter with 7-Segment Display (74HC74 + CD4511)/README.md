@@ -79,6 +79,7 @@ GND|8        9| g
 ---
 
 ## 🔌 Breadboard Layout
+![4-Bit Counter with 7-Segment Display (74HC74 + CD4511)](circuit_diagram.png)
 - Left section: Two 74HC74 ICs wired as a 4-bit counter with LEDs for binary output.  
 - Right section: CD4511 connected to 7-segment display for decimal output.  
 
